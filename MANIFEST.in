@@ -1,0 +1,11 @@
+include plumage_dash_components/plumage_dash_components.min.js
+include plumage_dash_components/plumage_dash_components.min.js.map
+include plumage_dash_components/async-*.js
+include plumage_dash_components/async-*.js.map
+include plumage_dash_components/*-shared.js
+include plumage_dash_components/*-shared.js.map
+include plumage_dash_components/metadata.json
+include plumage_dash_components/package-info.json
+include README.md
+include LICENSE
+include package.json
