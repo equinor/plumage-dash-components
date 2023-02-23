@@ -11,6 +11,14 @@ Get started with:
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+### Setup using VS Code Dev Container
+
+To setup the project using a dev container, open the project in VS Code and select "Reopen in Dev Container". 
+This will install all dependencies automatically.
+
+Note: Tests have to be run in headless mode in the dev container, which can be done with `$ pytest tests --headless`.
+
+
 ### Install dependencies
 
 If you have selected install_dependencies during the prompt, you can skip this part.
