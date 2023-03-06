@@ -1,0 +1,7 @@
+include plumage_dash_components/plumage_dash_components.min.js
+include plumage_dash_components/plumage_dash_components.dev.js
+include plumage_dash_components/plumage_dash_components.css
+include plumage_dash_components/metadata.json
+include plumage_dash_components/package.json
+include README.md
+include LICENSE

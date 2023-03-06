@@ -1,0 +1,11 @@
+[MASTER]
+
+ignore-patterns = ^[A-Z], _imports_  # Dash auto-generated files - ignore them
+
+[MESSAGES CONTROL]
+
+disable = missing-docstring,
+          duplicate-code,
+          too-few-public-methods,
+          invalid-name,
+          too-many-arguments
