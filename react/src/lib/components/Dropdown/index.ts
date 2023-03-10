@@ -5,11 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-
-import { Select } from "./components/Select";
-import { Dropdown } from "./components/Dropdown"
-
-export {
-    Select,
-    Dropdown
-};
+export { Dropdown } from "./Dropdown";
